@@ -1,0 +1,13 @@
+{
+  "files": {},
+  "launcherVersions": {
+    "darwin": "2.0.0",
+    "linux": "2.0.0",
+    "win32": "2.0.0"
+  },
+  "outdatedMessage": {
+    "link": "https://tooniversal.com/play",
+    "message": "Your Tooniversal launcher is out of date. Please redownload the latest launcher from our website!"
+  },
+  "removedFiles": []
+}
