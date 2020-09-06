@@ -1,9 +1,9 @@
 {
   "files": {},
   "launcherVersions": {
-    "darwin": "2.0.0",
-    "linux": "2.0.0",
-    "win32": "2.0.0"
+    "darwin": "2.0.1",
+    "linux": "2.0.1",
+    "win32": "2.0.1"
   },
   "outdatedMessage": {
     "link": "https://tooniversal.com/play",
